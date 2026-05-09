@@ -5,7 +5,7 @@
 
 Summary:        Additional service providers for KAccounts framework
 Name:           kaccounts-providers
-Version:	26.04.0
+Version:	26.04.1
 Release:	%{?git:0.%{git}.}1
 License:        GPLv2+
 Group:          System/Base
